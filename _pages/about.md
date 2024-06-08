@@ -22,7 +22,7 @@ René Thierry is currently a researcher at the IMT School for Advanced study in 
 
 Finite element modelling, multi-scale modelling and multiphysics are the most important interdependent ingredients I used.
 
-The mains sotfwaires are [FEniCS](https://fenicsproject.org/), [FreeFem++](https://freefem.org/)
+[FEniCS](https://fenicsproject.org/), [FreeFem++](https://freefem.org/)
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
