@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participation To European Society of Biomechanics (ESB) congress
+Participation to European Society of Biomechanics (ESB) congress
