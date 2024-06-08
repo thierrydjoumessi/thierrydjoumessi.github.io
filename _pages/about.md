@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Italy, Lucca. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -22,6 +22,6 @@ René Thierry is currently a researcher at the IMT School for Advanced study in 
 
 Finite element modelling, multi-scale modelling and multiphysics are the most important interdependent ingredients I used.
 
-[FEniCS](https://fenicsproject.org/) [FreeFem++](https://fenicsproject.org/)
+[FEniCS](https://fenicsproject.org/) [FreeFem++](https://fenicsproject.org/) MATLAB
 
 
