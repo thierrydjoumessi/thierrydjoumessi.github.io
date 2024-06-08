@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-René Thierry is currently a PhD student at the IMT School for Advanced study in Lucca, Italy. René is working on the mechanics and electrophysiology of soft tissues and is attempting to set up a digital twin of biological organs in order to bridge the gap between medicine, biophysics and bioengineering. Finite element modelling, multi-scale modelling and multiphysics are the most important interdependent ingredients in this process.
+René Thierry is currently a researcher at the IMT School for Advanced study in Lucca, Italy. René is working on the mechanics and electrophysiology of soft tissues and is attempting to set up a digital twin of biological organs in order to bridge the gap between medicine, biophysics and bioengineering. Finite element modelling, multi-scale modelling and multiphysics are the most important interdependent ingredients in this process.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
