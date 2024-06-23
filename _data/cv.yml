@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rene Thierry Djoumessi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 28th jun 1994
     - name: Languages
-      value: English, German
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: IMT School for Advanced Studies Lucca, Italy, Lucca
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Computer methods in Engineering
+        - Computationnal Mechanics and Biomechanics
         - title: Description 3.
           contents:
             - Sub-description 1.
